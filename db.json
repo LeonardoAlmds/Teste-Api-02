@@ -1,0 +1,36 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Joui",
+      "email": "joui@test.com"
+    },
+    {
+      "id": 2,
+      "nome": "Liz",
+      "email": "liz@test.com"
+    },
+    {
+      "id": 3,
+      "nome": "Kian",
+      "email": "kian@test.com"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nome": "Joui",
+      "email": "joui@test.com"
+    },
+    {
+      "id": 2,
+      "nome": "Liz",
+      "email": "liz@test.com"
+    },
+    {
+      "id": 3,
+      "nome": "Kian",
+      "email": "kian@test.com"
+    }
+  ]
+}
